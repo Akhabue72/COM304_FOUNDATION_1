@@ -7,7 +7,7 @@
 | Student Number | Q102562400 |
 | Student Email | 0akioa00@solent.ac.uk|
 | Github Account Username | Akhabue72 |
-| Github Submission Repository URL | idk what this is bruh |
+| Github Submission Repository URL | https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/myPracticeCourseWork/personal_learning_record/personal_learning_record.md |
 
 ## Introduction
 
