@@ -7,7 +7,7 @@
 | Student Number | Q102562400 |
 | Student Email | 0akioa00@solent.ac.uk|
 | Github Account Username | Akhabue72 |
-| Github Submission Repository URL | haha no|
+| Github Submission Repository URL | idk what this is bruh |
 
 ## Introduction
 
