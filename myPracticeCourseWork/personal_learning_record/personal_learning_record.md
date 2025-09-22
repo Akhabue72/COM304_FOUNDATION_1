@@ -3,11 +3,11 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2025 | 
-| Student Name | |
-| Student Number | |
-| Student Email | |
-| Github Account Username | |
-| Github Submission Repository URL | |
+| Student Name | Akhabue Akioya  |
+| Student Number | Q102562400 |
+| Student Email | 0akioa00@solent.ac.uk|
+| Github Account Username | Akhabue72 |
+| Github Submission Repository URL | haha no|
 
 ## Introduction
 
