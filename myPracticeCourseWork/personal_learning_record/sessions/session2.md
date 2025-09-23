@@ -24,6 +24,7 @@
 * A personal access token is essentially just a very long password that you use every time you "push"
 
 __Research__
+
 CD
 * "cd" is used to refer to "Change Directory", so whenever I say "cd C:\Gitrepos", I'm telling git to change my directory to "Gitrepos" in my C drive
 Apparently, there's varyations to this command, such as 
