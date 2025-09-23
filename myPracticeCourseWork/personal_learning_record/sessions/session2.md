@@ -19,7 +19,7 @@
 * Small tip: You can autocomplete the destination if the path name is unique enough by pressing TAB (thanks craig)
 * To update igni (I'll just call them igni (my laptop) and pheas (the web version) from now on) with changes I made on pheas, I ave to make sure that I'm in the right folder, and then input "git pull", which will pull all changes i made on pheas into igni.
 * I can use "git status" to check whether igni is up to date with pheas
-* When I make changes on igni, and want to push it to pheas, I need to "git add --all" to add all the changes together, then I "git commit -m" to do something (?) which will then ask for my identity if this is the first time I'm doing this from my device. Once the commit is ready, I then "git push", which requires my personal access token, and if all goes well, the changes I made on igni will get put on pheas
+* When I make changes on igni, and want to push it to pheas, I need to "git add --all" to add all the changes together, then I "git commit -m" to do something (?) which will then ask for my identity if this is the first time I'm doing this from my device. Once the commit is ready, I then "git push", which requires my personal access token, and if all goes well, the changes I made on igni will get put on pheas (I'll look into all the new terms and stuff in a bit)
 * How to make a personal acces token: Settings, Developer Settings, Personal access tokens (from there just follow the steps. I already made one and I don't remember the other steps after)
 * A personal access token is essentially just a very long password that you use every time you "push"
 
