@@ -13,7 +13,7 @@
 * <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/1f1442c5-2271-4d9b-aa8a-d75b88974d58" />
 * <img width="876" height="302" alt="image" src="https://github.com/user-attachments/assets/a4474c39-25a7-4fce-baf4-34223926fe57" />
 ### Types of memory:
-#### On cpu
+#### On cpu (in order of speed)
 * Refisters
 * Arithmetic logic unit
 * Layer 1 cache
