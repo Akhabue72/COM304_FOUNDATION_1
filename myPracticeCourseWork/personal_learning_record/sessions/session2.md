@@ -23,9 +23,9 @@
 * How to make a personal acces token: Settings, Developer Settings, Personal access tokens (from there just follow the steps. I already made one and I don't remember the other steps after)
 * A personal access token is essentially just a very long password that you use every time you "push"
 
-__Research__
+### Research
 
-CD
+#### CD
 * "cd" is used to refer to "Change Directory", so whenever I say "cd C:\Gitrepos", I'm telling git to change my directory to "Gitrepos" in my C drive
 Apparently, there's varyations to this command, such as 
 * "cd .." to go up one directory level
@@ -36,9 +36,8 @@ Apparently, there's varyations to this command, such as
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
 
-
+I got git working
 
 ## Summary of learning
-*What did you learn through these exercises*
+* I now know how to use github (or atleast the basics)
