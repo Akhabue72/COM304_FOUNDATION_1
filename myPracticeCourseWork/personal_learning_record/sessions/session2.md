@@ -3,12 +3,13 @@
 # Session 2
 
 ## Topics covered
-*What topics were covered in this session*
+
 22/09/2025
 * Finished the history of computers 
 * Setting up git for windows
 * What a personal access token is and how to use it
 * What SSH Keys are and how to use them(?)
+
 29/09/2025
 * Computer components
 30/09/2025
@@ -26,8 +27,9 @@
 * When I make changes on igni, and want to push it to pheas, I need to "git add --all" to add all the changes together, then I "git commit -m" to do something (?) which will then ask for my identity if this is the first time I'm doing this from my device. Once the commit is ready, I then "git push", which requires my personal access token, and if all goes well, the changes I made on igni will get put on pheas (I'll look into all the new terms and stuff in a bit)
 * How to make a personal acces token: Settings, Developer Settings, Personal access tokens (from there just follow the steps. I already made one and I don't remember the other steps after)
 * A personal access token is essentially just a very long password that you use every time you "push"
-
-* 
+* [link to the instructions for Installing a rasberry Pi](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/sessions/session1/docs/InstallingRaspberryPI.md)
+* The connections consist of: Power cable, keyboard, mouse, Internet thingie, Hdmi cable
+* Ping is something engineers use to check whether there is a response from the network
 ### Research
 
 #### CD
@@ -43,6 +45,8 @@ Apparently, there's varyations to this command, such as
 ## Exercises and results
 
 I got git working
+Shaun and I (mainly shaun) got the rasberry pi working
 
 ## Summary of learning
 * I now know how to use github (or atleast the basics)
+* I now can set up a rasberry pi, but I'm not too sure about actually using one
