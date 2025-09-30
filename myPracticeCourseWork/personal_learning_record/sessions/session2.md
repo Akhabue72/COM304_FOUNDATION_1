@@ -4,11 +4,15 @@
 
 ## Topics covered
 *What topics were covered in this session*
-
-* Finished the history of computers
+22/09/2025
+* Finished the history of computers 
 * Setting up git for windows
 * What a personal access token is and how to use it
 * What SSH Keys are and how to use them(?)
+29/09/2025
+* Computer components
+30/09/2025
+* How to use a rasberry pie
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
@@ -23,6 +27,7 @@
 * How to make a personal acces token: Settings, Developer Settings, Personal access tokens (from there just follow the steps. I already made one and I don't remember the other steps after)
 * A personal access token is essentially just a very long password that you use every time you "push"
 
+* 
 ### Research
 
 #### CD
