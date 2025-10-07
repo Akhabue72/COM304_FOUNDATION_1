@@ -55,7 +55,9 @@ Apparently, there's varyations to this command, such as
 ## Exercises and results
 
 I got git working
+
 Shaun and I (mainly shaun) got the rasberry pi working
+
 [That Painful 4 bit excercise]()
 * The answer to making it count down is: Just make it negative!
 * 
