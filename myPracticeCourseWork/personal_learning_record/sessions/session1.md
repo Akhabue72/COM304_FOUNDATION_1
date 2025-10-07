@@ -3,30 +3,18 @@
 # Session 1 (Incomplete)
 
 ## Topics covered
-
-*What topics were covered in this session*
-
-Just an overview of the history of computer science and how to use github (the basics)
+22/09/2025
+* Just an overview of the history of computer science
 
 ## Personal Notes and research following this session
 
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
-
+* Not much for me to summarise and research as most of this was things I knew already, however I will come back to update this at a later date
 
 
 ## Exercises and results
 
-*What exercises did you complete. What results. Screen shots and notes*
-
-
+* N/A
 
 ## Summary of learning
 
-*What did you learn through these exercises*
-
-How to use GitHub
-
-
-
-how to use more github
-
+* Ada lovelace is the first programmer
