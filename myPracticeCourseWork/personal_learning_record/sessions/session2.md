@@ -35,7 +35,7 @@
 * [link to the instructions for Installing a rasberry Pi](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/sessions/session1/docs/InstallingRaspberryPI.md)
 * The connections consist of: Power cable, keyboard, mouse, Internet thingie, Hdmi cable
 * Ping is something engineers use to check whether there is a response from the network (measured in "ms")
-#### Logic Gates
+#### Logic Gates (?)
 * We skipped past the basic stuff (I already know it anyway)
 * Half adder is essentially just a NAND + AND gate [Half Adder Sim](https://simulator.io/board/A0MeGe4pvm/1)
 * A full adder is 2 NAND + 2 AND + 1 NOT gates [Full Adder Sim](https://simulator.io/board/CZ0EsxYPgm/1)
@@ -68,3 +68,4 @@ Shaun and I (mainly shaun) got the rasberry pi working
 ## Summary of learning
 * I now know how to use github (or atleast the basics)
 * I now can set up a rasberry pi, but I'm not too sure about actually using one
+* I understand the composition of the adders
