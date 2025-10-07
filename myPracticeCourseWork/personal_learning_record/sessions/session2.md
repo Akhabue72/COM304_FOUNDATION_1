@@ -15,6 +15,10 @@
 30/09/2025
 * How to use a rasberry pie
 
+07/10/2025
+* Recap of what was done yesterday: [Binary stuff](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/sessions/session2/docs/binaryArithmetic.md)
+* 
+
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
@@ -29,7 +33,8 @@
 * A personal access token is essentially just a very long password that you use every time you "push"
 * [link to the instructions for Installing a rasberry Pi](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/sessions/session1/docs/InstallingRaspberryPI.md)
 * The connections consist of: Power cable, keyboard, mouse, Internet thingie, Hdmi cable
-* Ping is something engineers use to check whether there is a response from the network
+* Ping is something engineers use to check whether there is a response from the network (measured in "ms")
+* 
 ### Research
 
 #### CD
