@@ -40,7 +40,6 @@
 * Half adder is essentially just a NAND + AND gate [Half Adder Sim](https://simulator.io/board/A0MeGe4pvm/1)
 * A full adder is 2 NAND + 2 AND + 1 NOT gates [Full Adder Sim](https://simulator.io/board/CZ0EsxYPgm/1)
 * A full adder is used for adding stuff together [Adder calc](https://simulator.io/board/JIxRlrtGhm/1)
-* 
 ### Research
 
 #### CD
@@ -57,6 +56,9 @@ Apparently, there's varyations to this command, such as
 
 I got git working
 Shaun and I (mainly shaun) got the rasberry pi working
+[That Painful 4 bit excercise]()
+* The answer to making it count down is: Just make it negative!
+* 
 
 ## Summary of learning
 * I now know how to use github (or atleast the basics)
