@@ -37,9 +37,9 @@
 * Ping is something engineers use to check whether there is a response from the network (measured in "ms")
 
 * We skipped past the basic stuff (I already know it anyway)
-* Half adder is essentially just a NAND + AND gate [Half Adder Sim]()
-* A full adder is 2 NAND + 2 AND + 1 NOT gates [Full Adder Sim]()
-* A full adder is used for adding stuff together [Adder calc]()
+* Half adder is essentially just a NAND + AND gate [Half Adder Sim](https://simulator.io/board/A0MeGe4pvm/1)
+* A full adder is 2 NAND + 2 AND + 1 NOT gates [Full Adder Sim](https://simulator.io/board/CZ0EsxYPgm/1)
+* A full adder is used for adding stuff together [Adder calc](https://simulator.io/board/JIxRlrtGhm/1)
 * 
 ### Research
 
