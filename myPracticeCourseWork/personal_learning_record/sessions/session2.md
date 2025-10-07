@@ -60,7 +60,9 @@ Shaun and I (mainly shaun) got the rasberry pi working
 
 [That Painful 4 bit excercise]()
 * The answer to making it count down is: Just make it negative!
-* <img width="1040" height="1136" alt="image" src="https://github.com/user-attachments/assets/2f3ebacd-ea19-4c8f-b365-c74a0c938a87" />
+* <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/2f3ebacd-ea19-4c8f-b365-c74a0c938a87" />
+* <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/264ec550-9ca0-49ff-9dee-490833788924" />
+
 
 
 ## Summary of learning
