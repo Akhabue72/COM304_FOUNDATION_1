@@ -20,6 +20,11 @@
 * Recap of what was done yesterday: [Binary stuff](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/sessions/session2/docs/binaryArithmetic.md)
 * Logic gates
 
+13/10/2025
+* Revision pretty much
+* I now have a general to do list on my laptop [here](https://github.com/users/Akhabue72/projects/1)
+
+
 ## Personal Notes and research following this session
 #### Github
 * To access the git folder I have locally through git would be "cd C:\Gitrepos"
