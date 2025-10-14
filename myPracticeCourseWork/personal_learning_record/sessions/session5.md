@@ -3,19 +3,28 @@
 # Session 5
 
 ## Topics covered
-*What topics were covered in this session*
+
+14/10/25
+* Compilation
 
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+#### Compilation
+* Compiling is the process of translating high level languages into machine code.
+* Deepseek: "Compiling is the process of translating source code written in a high-level, human-readable programming language (like C++, C, Rust, or Go) into a low-level, machine-readable language called machine code (executable files)."
+* This process is performed by a component known as the compiler:
+* It starts with **Preprocessing**: the "clean up" or "preparation phase where the preprocessor handles lines in the code that start with a hashtag (#)
+* what it does (?)
+* Provides an output with a ".i" extension
+* Next is the **Compilation**, where the preprocessed code is then translated into aseembly language
+* Assembly is a low level language that the computer uses for instructions (humans can barely read it)
+* Next is the **Assembly**, where 
 
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
 
 
 
 ## Summary of learning
-*What did you learn through these exercises*
