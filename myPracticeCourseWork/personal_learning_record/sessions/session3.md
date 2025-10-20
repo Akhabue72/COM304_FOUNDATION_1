@@ -31,8 +31,11 @@
 
 ## Research
 ### Bus
-* A bus is a collection of parallel physical conductors within von neuman archetecture that acts as a shared pathway between the CPU, main memory and input/output components, transfering different types of information: Data (the information), Addresses (the location of the data) and control signals (commands for the operation).
+* The thing that transfers the data from component to component
+*  A bus is a collection of parallel physical conductors within von neuman archetecture that acts as a shared pathway between the CPU, main memory and input/output components, transfering different types of information: Data (the information), Addresses (the location of the data) and control signals (commands for the operation).
 
+### Program counter
+* Stores the address of the next instruction
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
