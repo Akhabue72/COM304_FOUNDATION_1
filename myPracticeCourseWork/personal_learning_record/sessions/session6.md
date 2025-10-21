@@ -3,12 +3,12 @@
 # Session 6
 
 ## Topics covered
-*What topics were covered in this session*
-
-
+20/10/25
+* 7 segment display
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+* The code for CPUlator:
+
 
 
 
