@@ -13,9 +13,6 @@
 29/09/2025
 * Computer components
 
-30/09/2025
-* How to use a rasberry pie
-
 07/10/2025
 * Recap of what was done yesterday: [Binary stuff](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/sessions/session2/docs/binaryArithmetic.md)
 * Logic gates
@@ -61,8 +58,6 @@ Apparently, there's varyations to this command, such as
 
 I got git working
 
-Shaun and I (mainly shaun) got the rasberry pi working
-
 [That Painful 4 bit excercise](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/sessions/session2/docs/booleanAlgebraAndLogicGates.md)
 * The answer to making it count down is: Just make it negative!
 * <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/2f3ebacd-ea19-4c8f-b365-c74a0c938a87" />
@@ -72,5 +67,4 @@ Shaun and I (mainly shaun) got the rasberry pi working
 
 ## Summary of learning
 * I now know how to use github (or atleast the basics)
-* I now can set up a rasberry pi, but I'm not too sure about actually using one
 * I understand the composition of the adders
