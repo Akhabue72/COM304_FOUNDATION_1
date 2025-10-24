@@ -15,7 +15,6 @@
 * The "random access" in RAM is because it needs to be able to quickly take in data from anywhere
 * ROM is "Read only" because thats all you can do: Read, not write. However this technically classifies as a type of RAM, just one you can't edit or write to
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/1f1442c5-2271-4d9b-aa8a-d75b88974d58" />
-<img width="876" height="302" alt="image" src="https://github.com/user-attachments/assets/a4474c39-25a7-4fce-baf4-34223926fe57" />
 
 ### Types of memory:
 #### On cpu (in order of speed)
@@ -32,14 +31,14 @@
 * Removable: Floppy, SD card, Tape
 * Virtual memory (?)
 
-
-
-
-
 ## Research
-### Bus
-* The thing that transfers the data from component to component
+### Buses
+* The things that transfer data from component to component, of which there are 3.
 *  A bus is a collection of parallel physical conductors within von neuman archetecture that acts as a shared pathway between the CPU, main memory and input/output components, transfering different types of information: Data (the information), Addresses (the location of the data) and control signals (commands for the operation).
+*  The **Data Bus** Carries actual data and instructions. It brings instructions from the memory to the CPU for processing and then carries the results back to the mamory (2-way). The actual "width" of the data bus (32-bit, 64-bit)  determines how much data can be transferred in one go, which tends to be a big factor in a computer's performance.
+*  The **Address Bus** Carries the memory addresses. Goes straight from the CPU to the memory (1-way) whenever the CPU needs to read/write data. It places a specific memory address to tell the rest of the system where the data should come from or go to. The width Determines how much memory the CPU can access (32-bit = 4GB of RAM)
+*  The **Control Bus** carries control and timing signals (the what and when): A collection of signals that coordinate the system's activities (2 way) through commands such as: Memory Read, Memory Write, Interrupt Request, Clock signal (syncronizes all operation).
+<img width="876" height="302" alt="image" src="https://github.com/user-attachments/assets/a4474c39-25a7-4fce-baf4-34223926fe57" />
 
 ### Program counter
 * Stores the address of the next instruction
