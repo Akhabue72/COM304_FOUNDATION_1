@@ -31,6 +31,11 @@
 * Removable: Floppy, SD card, Tape
 * Virtual memory (?)
 
+#### Rasberry Pi
+* [link to the instructions for Installing a rasberry Pi](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/sessions/session1/docs/InstallingRaspberryPI.md)
+* The connections consist of: Power cable, keyboard, mouse, Internet thingie, Hdmi cable
+* Ping is something engineers use to check whether there is a response from the network (measured in "ms")
+
 ## Research
 ### Buses
 * The things that transfer data from component to component, of which there are 3.
