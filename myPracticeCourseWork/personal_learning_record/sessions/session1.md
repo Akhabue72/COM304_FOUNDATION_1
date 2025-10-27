@@ -14,10 +14,15 @@
 
 
 ## Personal Notes and research following this session
-
+### Mechanical Calculators
 * Started off with mechanical calculators such as the abacus (the bead counting thing) or the slide rule which was essentially just a ruler with a slide over it that allowed you to perform calculations
+<img width="316" height="407" alt="image" src="https://github.com/user-attachments/assets/d85cb237-d995-4648-8055-ba0c0135d506" />
+
+### Mechanical computers
 * Moving on to mechanical computers, **Charles Babbage** (1791-1871) was a brittish mathmatician. Known as the "Father of computers" for the creation of the Difference engine inspired by the punch card based [Jacquard Loom](https://en.wikipedia.org/wiki/Jacquard_machine)
 * **Ada Lovelace** (1815-1852), the only legitimate child of Lord Byron, Countess of Lovelace was the very first programmer and was a friend of Babbage
+<img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/72a1e67e-e7d2-417d-9b43-192da1c8fa15" />
+
 
 ### Analogue Computers
 #### Gaudi
