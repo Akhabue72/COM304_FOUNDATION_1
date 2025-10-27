@@ -49,6 +49,16 @@ Apparently, there's varyations to this command, such as
 * "cd /" to go to the root directory
 * "cd" by itself also goes back to the home directory
 
+#### Git
+* "git" is used to refer to the version control system itself (github)
+* "git add" track these file changes and **add** them to the staging area
+* "git commit" permanently save the staged changes to the repository's history
+* "git push" push my local commits up to the remote server (github)
+* "git clone" clone a remote repo to my local machine
+* "git status" show me the current status of my repo
+
+
+
 
 
 ## Exercises and results
