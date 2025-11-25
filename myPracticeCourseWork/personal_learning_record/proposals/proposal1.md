@@ -3,7 +3,7 @@
 # Council Proposal 1 (I dont like this one)
 
 ## Explanation of this proposal
-*What do you think this proposal might mean? How might it be implemented?*
+A Hot Desk solution is a flexible office arrangement that allows for a worker can use any desk in the office, allowing for more effiecient use of office space.
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
