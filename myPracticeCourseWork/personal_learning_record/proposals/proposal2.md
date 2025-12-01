@@ -3,7 +3,6 @@
 # Council Proposal 2 
 
 ## Explanation of this proposal
-A Hot Desk solution is a flexible office arrangement that allows for a worker can use any desk in the office, allowing for more effiecient use of office space.
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
