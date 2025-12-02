@@ -3,6 +3,7 @@
 # Council Proposal 7
 
 ## Explanation of this proposal
+A hot desk solution is a flexible workplace arrangement where no one is assigned a specific desk, instead opting for a first-come, first-serve basis or a booking system for the desks. It exists to optimize office space and promote flexibillity, increasing collaboration amongst staff. As for agile management, its an iterative way to delivering a project throughout its life cycle. It's composed of several iterations or steps towards the completion of the project. It's often used in software development projects to promote adaptabillity since it allows you to adjust as you go along. While agile management is the philosophy behind a more flexible workspace, hot desking would be the result of putting it into practice.
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
