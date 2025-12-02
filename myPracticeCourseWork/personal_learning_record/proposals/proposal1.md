@@ -3,7 +3,7 @@
 # Council Proposal 1 (I dont like this one)
 
 ## Explanation of this proposal
-A Hot Desk solution is a flexible office arrangement that allows for a worker can use any desk in the office, allowing for more effiecient use of office space.
+A hot desk solution is a flexible workplace arrangement where no one is assigned a specific desk, instead opting for a first-come, first-serve basis or a booking system for the desks. It exists to optimize office space and promote flexibillity, increasing collaboration amongst staff. 
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
