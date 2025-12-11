@@ -1,15 +1,15 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
-# Council Proposal 1 (I dont like this one)
+# Council Proposal 1 
 
 ## Explanation of this proposal
-A hot desk solution is a flexible workplace arrangement where no one is assigned a specific desk, instead opting for a first-come, first-serve basis or a booking system for the desks. It exists to optimize office space and promote flexibillity, increasing collaboration amongst staff. 
+A hot desk solution is a flexible workplace arrangement where no one is assigned a specific desk, instead opting for a first-come, first-serve basis or a booking system for the desks. It exists to optimize office space and promote flexibillity, increasing collaboration amongst staff.
 
 ## Technologies and research relevant to this proposal
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
+Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G. (2017) 'An intelligent hot-desking model harnessing the power of occupancy sensing data', Facilities, 35(13-14), pp. 766-786. Available from: https://www.emerald.com/f/article/35/13-14/766/70950/An-intelligent-hot-desking-model-harnessing-the
 
 ## Initial Analysis of the Proposal
-*Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
 ### SWOT Analysis
 *You can use html tables in markdown*
