@@ -12,7 +12,6 @@ Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G. (2017) 'An intelligen
 ## Initial Analysis of the Proposal
 
 ### SWOT Analysis
-*You can use html tables in markdown*
  <table>
   <tr>
     <th>Strength</th>
@@ -21,16 +20,16 @@ Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G. (2017) 'An intelligen
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cost efficiency</li>
+        <li>Flexibility</li>
+        <li>Modern Appeal</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Productivity Rish</li>
+        <li>Employee Dissatisfaction</li>
+        <li>Logistical Friction</li>
       </ol> 
     </td>
   </tr>
@@ -41,16 +40,16 @@ Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G. (2017) 'An intelligen
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Technology intergration</li>
+        <li>Sustainability trends</li>
+        <li>Post-Pandemic Flexibility</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cultural resistance</li>
+        <li>Privacy concerns</li>
+        <li>Talent ompetitiion</li>
       </ol> 
     </td>
   </tr>
