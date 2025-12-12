@@ -10,7 +10,7 @@ JAHA, A.A., SHATWAN, F.B., ASHIBANI, M. (2008) Proper Virtual Private Network (V
 
 CHITI, E. (2012) The Governance of Compliance [Viewed December 12th 2025] Available from [here](https://www.eui.eu/Documents/DepartmentsCentres/AcademyofEuropeanLaw/CourseMaterialsUL/UL2009/Chiti/ChitiOutline.pdf)
 
-https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/myPracticeCourseWork/personal_learning_record/sessions/session9.md
+[My Personal Notes](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/myPracticeCourseWork/personal_learning_record/sessions/session9.md)
 
 ## Initial Analysis of the Proposal
 ### SWOT Analysis
