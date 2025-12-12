@@ -7,7 +7,9 @@ A hot desk solution is a flexible workplace arrangement where no one is assigned
 
 ## Technologies and research relevant to this proposal
 
-Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G. (2017) 'An intelligent hot-desking model harnessing the power of occupancy sensing data', Facilities, 35(13-14), pp. 766-786. Available from: https://www.emerald.com/f/article/35/13-14/766/70950/An-intelligent-hot-desking-model-harnessing-the
+Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G. (2017) An intelligent hot-desking model harnessing the power of occupancy sensing data [Viewed November 18th 2025] Available from [here](https://www.emerald.com/f/article/35/13-14/766/70950/An-intelligent-hot-desking-model-harnessing-the)
+
+Singhania, V. (2015) The Internet of Things: An overview - Understanding the issues and challenges of a more connected world [Viewed November 18th 2025] Available from [here](https://d1wqtxts1xzle7.cloudfront.net/48790442/ISOC-IoT-Overview-20151014_0-libre.pdf?1473746977=&response-content-disposition=inline%3B+filename%3DThe_Internet_of_Things_An_Overview_Under.pdf&Expires=1765500975&Signature=MTz9mdD6OdHcE--pFn3qV9nKX9a1hK3z2195Oh~BNDHryvKBBENu6-UypXvzXZ9m2pwhEYu8vr91~m0bYy~1lMfJVYpVmW3tueRe87OHjPtUOXgc6avopn6ZfLirmGsaxitQmT8-V~iZ~R9KgKoodl4symw-gkF6lydVDIDuJhF1rvlIJXOW2uRuz5WyWIsFBFkhkMaM3REsi3L99nILCEqMKMNd6DQXkiw14l8Lqpzb3qcj0Xki2shViI2IrZ1l9b2KG073nGBtJz3AESpA1kQd30T8eVCRknYEbKegbAvT9fhKfBzQBVcgOAQseTkDyfAkvbxo1EEqbQ0T5CEGHQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 ## Initial Analysis of the Proposal
 
@@ -49,14 +51,13 @@ Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G. (2017) 'An intelligen
       <ol>
         <li>Cultural resistance</li>
         <li>Privacy concerns</li>
-        <li>Talent ompetitiion</li>
+        <li>Talent competitiion</li>
       </ol> 
     </td>
   </tr>
 </table> 
 
 ### PEST Analysis
-*You can use html tables in markdown*
 
  <table>
   <tr>
@@ -66,16 +67,16 @@ Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G. (2017) 'An intelligen
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Workplace Regulations</li>
+        <li>Data Privacy laws</li>
+        <li>Planning Policy</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Corporate Cost Pressure</li>
+        <li>Technology Investment Cost</li>
+        <li>Labour Market</li>
       </ol> 
     </td>
   </tr>
@@ -86,26 +87,26 @@ Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G. (2017) 'An intelligen
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Employee Wellbeing</li>
+        <li>General Workplace Preferences</li>
+        <li>Focus Culture</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Internet of Things</li>
+        <li>Cloud</li>
+        <li>Digital Workplace Platforms</li>
       </ol> 
     </td>
   </tr>
 </table> 
 
 ## Questions to ask about the proposal
-*Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
-* question 1
-* question 2
+* How would a sense of belonging be preserved once the physical anchors (personal desks) are removed?
+* How would we design the log in system so that people can seamlessly comine into work and pick any desk they want?
+* How would the council prevent this model from creating a two-tier workforce and guarantee fair and equal access to suitable workspaces for all employees?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
