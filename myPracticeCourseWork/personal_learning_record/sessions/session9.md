@@ -62,4 +62,4 @@ Analogy: Sending a Letter
 
 
 ## Summary of learning
-*What did you learn through these exercises*
+The basic structure of the internet
