@@ -11,7 +11,7 @@ WYLD, D.C. (2009) Moving to the Cloud: An Introduction to Cloud Computing in Gov
 
 Hummel, P., BRAUN, M., TRETTER, M., DABROCK, P. (2021) Data sovereignty: A review [Viewed November 18th 2025] Available from [here](https://journals.sagepub.com/doi/full/10.1177/2053951720982012)
 
-[My personal notes] (https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/myPracticeCourseWork/personal_learning_record/sessions/session10.md)
+[My personal notes](https://github.com/Akhabue72/COM304_FOUNDATION_1/blob/main/myPracticeCourseWork/personal_learning_record/sessions/session10.md)
 
 ## Initial Analysis of the Proposal
 
