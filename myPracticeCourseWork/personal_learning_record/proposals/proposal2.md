@@ -7,10 +7,9 @@
 The cloud is a large network of remote servers that can be accessed over the internet for storing and managing data, running applications and delivering services. This allows for you to access your data from any internet-device without needing to manage the servers themselves or store everything on a personal/work computer. 
 
 ## Technologies and research relevant to this proposal
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
 
 ## Initial Analysis of the Proposal
-*Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
 ### SWOT Analysis
 *You can use html tables in markdown*
